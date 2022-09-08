@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+.top-img{
+  background-image: url(../img/img01.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.top-text{
+  text-align: center;
+  padding: 250px 0px;
+}
+
+.top-text h1{
+  font-size: 100px;
+  font-family: 'Dancing Script', cursive;
+}
+nav h3{
+  font-family: 'Dancing Script', cursive;
+  color: black;
+}
+nav i{
+  color: #888;
+}
+
+.feature-area{
+  background-image: url(../img/img02.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 250px 0px;
+  text-align: center;
+}
+
+.feature-area h2{
+  font-size: 80px;
+  font-family: 'Dancing Script', cursive;
+  margin-bottom: 40px;
+}
+
+.carousel-caption{
+  padding: 250px 0px;
+}
+
+.service-list{
+  background-color: black;
+  text-align: center;
+  padding: 50px;
+}
+
+.service-list h2{
+  font-size: 80px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.service-description{
+  padding: 30px;
+}
+
+.info{
+  border: solid 2px white;
+  margin: 20px;
+  margin: 20px;
+}
+
+.info p{
+  padding: 10px;
+}
+
+footer{
+  background-color: #333;
+  padding: 30px;
+}
+
+footer ul li{
+  list-style: none;
+}
+
+footer ul li a{
+  color: #aaa;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+footer ul li a:hover{
+  color: white;
+  font-size: 13px;
+}
+
+footer p{
+  text-align: right;
+}
