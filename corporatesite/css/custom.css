@@ -45,6 +45,11 @@ nav i{
   padding: 250px 0px;
 }
 
+img{
+  object-fit: cover;
+  height: 700px;
+}
+
 .service-list{
   background-color: black;
   text-align: center;
